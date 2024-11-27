@@ -1,0 +1,5 @@
+include ':dataManagementSharedPreference'
+include ':dataManagementPreferenceFragment'
+include ':dataManagementFileInternalMemory'
+include ':dataManagementFileExternalMemory'
+include ':dataManagementSQL'

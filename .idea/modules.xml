@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataManagement.iml" filepath="$PROJECT_DIR$/DataManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementFileExternalMemory/DataManagement.dataManagementFileExternalMemory.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementFileExternalMemory/DataManagement.dataManagementFileExternalMemory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementFileExternalMemory/DataManagement.dataManagementFileExternalMemory.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementFileExternalMemory/DataManagement.dataManagementFileExternalMemory.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementFileExternalMemory/DataManagement.dataManagementFileExternalMemory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementFileExternalMemory/DataManagement.dataManagementFileExternalMemory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementFileExternalMemory/DataManagement.dataManagementFileExternalMemory.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementFileExternalMemory/DataManagement.dataManagementFileExternalMemory.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementFileInternalMemory/DataManagement.dataManagementFileInternalMemory.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementFileInternalMemory/DataManagement.dataManagementFileInternalMemory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementFileInternalMemory/DataManagement.dataManagementFileInternalMemory.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementFileInternalMemory/DataManagement.dataManagementFileInternalMemory.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementFileInternalMemory/DataManagement.dataManagementFileInternalMemory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementFileInternalMemory/DataManagement.dataManagementFileInternalMemory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementFileInternalMemory/DataManagement.dataManagementFileInternalMemory.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementFileInternalMemory/DataManagement.dataManagementFileInternalMemory.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementPreferenceFragment/DataManagement.dataManagementPreferenceFragment.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementPreferenceFragment/DataManagement.dataManagementPreferenceFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementPreferenceFragment/DataManagement.dataManagementPreferenceFragment.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementPreferenceFragment/DataManagement.dataManagementPreferenceFragment.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementPreferenceFragment/DataManagement.dataManagementPreferenceFragment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementPreferenceFragment/DataManagement.dataManagementPreferenceFragment.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementPreferenceFragment/DataManagement.dataManagementPreferenceFragment.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementPreferenceFragment/DataManagement.dataManagementPreferenceFragment.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementRoom/DataManagement.dataManagementRoom.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementRoom/DataManagement.dataManagementRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementSQL/DataManagement.dataManagementSQL.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementSQL/DataManagement.dataManagementSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementSQL/DataManagement.dataManagementSQL.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementSQL/DataManagement.dataManagementSQL.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementSQL/DataManagement.dataManagementSQL.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementSQL/DataManagement.dataManagementSQL.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementSQL/DataManagement.dataManagementSQL.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementSQL/DataManagement.dataManagementSQL.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementSharedPreference/DataManagement.dataManagementSharedPreference.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementSharedPreference/DataManagement.dataManagementSharedPreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementSharedPreference/DataManagement.dataManagementSharedPreference.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementSharedPreference/DataManagement.dataManagementSharedPreference.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementSharedPreference/DataManagement.dataManagementSharedPreference.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementSharedPreference/DataManagement.dataManagementSharedPreference.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataManagementSharedPreference/DataManagement.dataManagementSharedPreference.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dataManagementSharedPreference/DataManagement.dataManagementSharedPreference.unitTest.iml" />
+    </modules>
+  </component>
+</project>
